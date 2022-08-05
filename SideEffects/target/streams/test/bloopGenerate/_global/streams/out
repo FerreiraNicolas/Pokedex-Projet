@@ -1,0 +1,4 @@
+[debug] [sideeffects-test] Classpath dependencies List()
+[debug] [sideeffects-test] Dependencies from configurations List(sideeffects)
+[debug] Bloop wrote the configuration of project 'sideeffects-test' to '/Users/jalal/Projects/craftme/scala_courses/SideEffects/.bloop/sideeffects-test.json'
+[success] Generated .bloop/sideeffects-test.json
