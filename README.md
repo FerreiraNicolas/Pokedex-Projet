@@ -27,8 +27,14 @@ Les commandes à implémenter par le client CLI:
 - MATCH <keyword>
   - Affiche tous les noms de pokémons qui match avec le keyword. Si un nom de pokémon contient le <keyword> alors c'est un match
   
-  WHEREIS <pokemon> Les deux commandes fonctionnent mais nous n'avont pas réussi a rendre un rendu propre de ces commandes, suite a de trop nombreuses difficultées avec spray
-  MOVE <move name>
+- Les deux commandes fonctionnent mais nous n'avont pas réussi a rendre un rendu propre de ces commandes, suite a de trop nombreuses difficultées avec spray
+ 
+- WHEREIS <pokemon> 
+  - Affiche de façon moche les localisation des pokemon via l'api
+
+- MOVE <move name>
+	-Affiche de façon moche les informations sur une attaque via l'api
+
 
 Vous avez le droit à la librairie standard de scala et java pour réaliser ce programme.
 Essayer au maximum d'appliquer ce que vous avez appris de la programmation fonctionel. 
